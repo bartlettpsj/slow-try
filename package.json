@@ -1,0 +1,15 @@
+{
+  "name": "slow-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "speed-notry.js",
+  "scripts": {
+    "start": "node speed-try.js && node speed-notry.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
